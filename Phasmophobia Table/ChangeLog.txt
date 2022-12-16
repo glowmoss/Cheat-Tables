@@ -1,5 +1,2 @@
-- Updated set prices and money
-- Updated instructions for xmas event cheat
-- Updated complete all missions
-- Updated Set Player Level
-- Updated Fullbright (Still isn't as good as what it used to be)
+- Fixed Inf Pics crashing
+- Fixed setup phase crashing
