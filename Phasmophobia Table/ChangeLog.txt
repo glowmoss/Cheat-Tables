@@ -1,4 +1,5 @@
-This is just a test
-Changes:
-1. Updated cheat Y
-2. Change to cheat X
+- Updated set prices and money
+- Updated instructions for xmas event cheat
+- Updated complete all missions
+- Updated Set Player Level
+- Updated Fullbright (Still isn't as good as what it used to be)
