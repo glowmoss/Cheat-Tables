@@ -1,0 +1,1 @@
+- Fixed no dmg sound and spawn ushabti cheats for the latest version

@@ -1,0 +1,2 @@
+Initial Table Release
+May add more pointers and such in the future

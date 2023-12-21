@@ -1,0 +1,74 @@
+How do I set my level?
+
+To set your level you have a couple of options in the table in the other section you can use the "Set level and Prestige (On Prestige)" cheat along with the "Prestige by leaving a singleplayer lobby" cheat and then leave a lobby to set your prestige as well as your level. Leaving it at the default makes you prestige 1 and level 100. The cheat also prevents you from losing most things except your money which you can just use the set money cheat to get back.
+
+In that same section you can use complete all missions and Set Player Level to set the level (Do note that you need to go into a mission then leave via hitting the keypad for it to set the level.
+
+Another option is to use the save editor I have mentioned on frf and on my discord server.
+
+The safety of any of these options is up to you they have a few checks that I am not 100% sure on myself so its on you if you get banned for it as there is always a risk
+
+
+What bypass is the safest or what should I use?
+
+The safest bypass is metrix's dll which is already in the table. Simply launch the table and then it will do the rest. It will display a label that tells you whether the bypass is in place and that the crash reporter is deleted so that it can't send shit to the devs if the game does crash.
+Only if the bypass is in place will it ask you if you want to open the game process
+
+
+I have the pirated version of the game and X happened or didn't happen.
+
+I have said that I don't support the pirated version of the game. If its the same version as the current release then the cheats on the table will work but otherwise I don't give a fuck. Theres an archive of old tables but I don't support them so if they work they work.
+This will be the only support you get. If you want the bypass installed download the zip file from the frf post and move the dll to Phasmophobia\Phasmophobia_Data\Plugins\x86_64 the table will still say it failed obviously as it's looking through steam for where you have the game.
+
+
+
+How do I set the hoop score?
+
+Did you even read the cheat name simply score a goal to update/populate the pointer then set it to whatever and score another to update.
+
+
+How do I set my money?
+
+hmm I wonder would it be the set prices and money cheat found in the lobby section. No it can't possibly be that lol. It is, just buy or sell an item and your money will be set to whatever you set it to. If you have zero money or items try the complete all missions cheat found in the other section then go in to a mission and leave via the keypad to get some money.
+If you want another option use the save editor here ⁠wardens-office⁠ and follow the instructions below it
+
+
+What is the safest way to level?
+
+That's up to you really technically the safest option is to just get the ghost type and play the X15 multiplier custom difficulty to guess the ghost and leave. Then there is use the complete all missions found in the other section and use that on the X15 multiplier custom difficulty
+
+
+Do I need to be the host for cheat X?
+
+The answer 9/10 would be yes. I did put a colour legend that tells you but I generally can never test myself and I forget to change the colour to that colour anyway lol
+
+
+How do I remove the bypass? For whatever bizarre reason as its not detected
+To remove it either verify the game files on steam by
+Right clicking on phasmophobia and click Properties
+Go to the installed files section
+Press on the verify integrity of the game files
+Do note this will also bring back the crash reporter that can report info to the devs so don't go opening cheat engine or any other app it targets.
+The other way is to just go into Phasmophobia\Phasmophobia_Data\Plugins\x86_64 delete the KS_Diagnostics_Process.dll and rename KS_Diagnostics_Process.dll.bak to KS_Diagnostics_Process.dll and it will be back to crashing your game as you must like if you have anything open it is searching for.
+
+
+
+Troubleshooting
+A lot of the time restarting the table and the game can fix some random issues had
+
+
+The table says failed to find the steam directory?
+
+I will be adding this to the error on the table but if you are on the unpirated version of the game and get this error try this solution.
+Open your start menu and type env and click edit the system environment variables.
+Click Environment Variables...
+In the System Variables list double Path
+Click new and then paste the following into it.
+%SystemRoot%\system32
+Click OK on all windows and then restart the table
+If it's caused by that error then it should be fixed but if you have the legit game and still get that error let me know.
+
+
+Lua error attempt to index a nil value
+
+Let me know about it and I will look into it as I try to put checks in place to stop that but sometimes they don't always work.
