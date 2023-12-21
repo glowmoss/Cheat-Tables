@@ -1,1 +1,1 @@
-- Fixed no dmg sound and spawn ushabti cheats for the latest version
+- Changed the updater over to get people to get the new version of the table from the discord server
