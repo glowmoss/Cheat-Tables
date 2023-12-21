@@ -1,1 +1,1 @@
-- Fixed some scripts for current release (Not much seemed to break on this one)
+- Changed to new Updater that just tells people to check the discord instead of having to host the file on github to get more traffic to the server
