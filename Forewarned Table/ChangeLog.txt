@@ -1,1 +1,1 @@
-- Changed the updater over to get people to get the new version of the table from the discord server
+- Fixed multiple cheats for the latest version
