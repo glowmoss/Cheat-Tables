@@ -72,3 +72,5 @@ If it's caused by that error then it should be fixed but if you have the legit g
 Lua error attempt to index a nil value
 
 Let me know about it and I will look into it as I try to put checks in place to stop that but sometimes they don't always work.
+
+If You Still have issues let me know on my support server https://discord.gg/PYSdfGd2NV
