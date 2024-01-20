@@ -1,1 +1,2 @@
-- Fixed multiple cheats for the latest version
+- Other tables script now works to show off some of my other work
+- Fixed the background image so the aspect ratio isn't fucked
