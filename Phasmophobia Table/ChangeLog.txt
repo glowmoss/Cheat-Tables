@@ -1,1 +1,1 @@
-- Fixed for latest update
+- Added Chinese Translation
