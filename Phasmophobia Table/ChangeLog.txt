@@ -1,1 +1,1 @@
-- Added Chinese Translation
+- Fix for ID changes that caused a script not to activate
