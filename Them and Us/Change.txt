@@ -1,0 +1,7 @@
+ Changes:
+- Added a few more scripts for god mode, inf ammo, etc
+- Fixed the pointer to fearpoints
+- Added a currently equipped weapon Pointer Section I forgot to add from the main table where I have shit everywhere.
+- Got the inventory editor fully functional
+I Explained it on the table but you can only edit weapons to other weapons and items to other items. 
+If you want more options edit the item box or the dropped items as it doesn't matter if its an item or a weapon you can change whatever to whatever
