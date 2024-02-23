@@ -1,1 +1,1 @@
-- Fix for ID changes that caused a script not to activate
+- Fixed cheats for latest version
